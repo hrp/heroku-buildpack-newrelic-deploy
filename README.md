@@ -1,2 +1,1 @@
-# buildpack-outlearn
-Custom Outlearn Heroku buildpack extensions
+# Custom Heroku buildpack to notify Newrelic of deploys
